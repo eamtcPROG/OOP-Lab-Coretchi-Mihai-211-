@@ -9,4 +9,4 @@
 
 1. I skipped the first task because I already had UNIX-based operating system.
 2. After I installed zsh, using the command:brew install zsh; and after set zsh as your default shell. My next step was Oh My Zsh, using the command:sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)". After that I opened the file .zshrc. In that file I changed the theme and added some plugins.
-3. I created the helloWorld.cpp file and the github repository, also I compile the .cpp file using GCC. After I used the commands: 1. git init; 2. git add . ; 3. git commit - m "First ..."; 4.git remote add origin https://github.com/eamtcPROG/OOP-Lab-Coretchi-Mihai-211-.git; 5. git push. To add the files to my github repository  
+3. I created the helloWorld.cpp file and the github repository, also I compile the .cpp file using GCC, and created the Makefile and i ran the command "make Makefile" After I used the commands: 1. git init; 2. git add . ; 3. git commit - m "First ..."; 4.git remote add origin https://github.com/eamtcPROG/OOP-Lab-Coretchi-Mihai-211-.git; 5. git push. To add the files to my github repository  
